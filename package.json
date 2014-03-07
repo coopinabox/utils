@@ -1,0 +1,24 @@
+{
+  "name": "ciab-utils",
+  "version": "0.0.0",
+  "description": "Coop-In-A-Box utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js",
+    "lint": "jshint . ;true",
+    "release": "npm-release patch -m \"version++\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coopinabox/utils.git"
+  },
+  "author": "",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/coopinabox/utils/issues"
+  },
+  "homepage": "https://github.com/coopinabox/utils",
+  "devDependencies": {
+    "npm-release": "0.0.4-3"
+  }
+}
