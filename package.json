@@ -1,6 +1,6 @@
 {
   "name": "ciab-utils",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Coop-In-A-Box utility functions",
   "main": "index.js",
   "scripts": {
